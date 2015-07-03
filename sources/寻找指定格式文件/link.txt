@@ -1,0 +1,167 @@
+C:\Users\All Users\Microsoft\Windows\Start Menu\迅雷影音.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Adobe Application Manager.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Adobe Bridge CS6 (64bit).lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Adobe Photoshop CS6 (64 Bit).lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Rainmeter.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Sublime Text 2.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\2345王牌软件\2345看图王\2345图片处理.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\2345王牌软件\2345看图王\2345看图王-卸载程序.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\2345王牌软件\2345看图王\2345看图王.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\2345王牌软件\2345看图王\2345看图王查看器.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\ABBYY FineReader 12\ABBYY FineReader 12.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\ABBYY FineReader 12\ABBYY Screenshot Reader.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\ABBYY FineReader 12\快速任务\图像或 PDF 文件到 Microsoft Word.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\ABBYY FineReader 12\快速任务\图像文件到 PDF.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\ABBYY FineReader 12\快速任务\扫描到 Microsoft Word.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\ABBYY FineReader 12\快速任务\扫描到可搜索 PDF.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\ABBYY FineReader 12\快速任务\扫描并保存为图像.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessibility\Speech Recognition.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Calculator.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Math Input Panel.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Paint.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Remote Desktop Connection.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Snipping Tool.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Sound Recorder.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Steps Recorder.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Sticky Notes.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Fax and Scan.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Wordpad.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\XPS Viewer.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Character Map.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Accessories\Tablet PC\Windows Journal.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Component Services.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Computer Management.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\dfrgui.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Disk Cleanup.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Event Viewer.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Hyper-V Manager.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\IIS Manager.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\iSCSI Initiator.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Memory Diagnostics Tool.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (64-bit).lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Performance Monitor.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Print Management.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Resource Monitor.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Security Configuration Management.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\services.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Configuration.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Information.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Task Scheduler.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows Firewall with Advanced Security.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell (x86).lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell ISE (x86).lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell ISE.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Dolby\Dolby Digital Plus.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Google Chrome\Google Chrome.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Hyper-V Management Tools\Hyper-V Manager.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Hyper-V Management Tools\VMConnect.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\IIS\IIS Client Manager.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Intel\Intel(R) HD Graphics Control Panel.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Intel\Updates\Intel(R) ME FW Recovery Agent.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\JetBrains\JetBrains WebStorm 10.0.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Access 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Excel 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\InfoPath Designer 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\InfoPath Filler 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Lync 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\OneNote 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Outlook 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\PowerPoint 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Publisher 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\SkyDrive Pro 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Word 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\发送到 OneNote 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 工具\Database Compare 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 工具\Lync 录制管理器.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 工具\Office 2013 上载中心.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 工具\Office 2013 语言首选项.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 工具\Spreadsheet Compare 2013.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 工具\遥测仪表板(Office 2013 用).lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2013\Office 2013 工具\遥测日志(Office 2013 用).lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\NVIDIA Corporation\GeForce Experience.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Python 3.3\IDLE (Python GUI).lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Python 3.3\Module Docs.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Python 3.3\Python (command line).lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Python 3.3\Python Manuals.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Python 3.3\Uninstall Python.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Realtek\Realtek HD 音频管理器.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\System Tools\Default Programs.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\System Tools\Task Manager.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\System Tools\Windows Easy Transfer.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\System Tools\Windows PowerShell.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\TortoiseSVN\Help.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\TortoiseSVN\Settings.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\TortoiseSVN\TortoiseIDiff.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\TortoiseSVN\TortoiseMerge.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\TortoiseSVN\TortoiseSVN Repository Browser.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\TortoiseSVN\TortoiseSVN.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\TortoiseSVN\Website.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\UltraISO\UltraISO 使用说明.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\UltraISO\UltraISO 版本历史.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\UltraISO\UltraISO 简介.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\UltraISO\UltraISO.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\UltraISO\卸载 UltraISO.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\WinPcap\Uninstall WinPcap 4.1.2.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Xshell 4\ReadMe.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Xshell 4\Xactivator.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Xshell 4\Xagent.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\Xshell 4\Xshell.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\分区助手5.6专业版\分区助手专业版5.6.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\分区助手5.6专业版\卸载分区助手.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\有道\有道词典\卸载有道词典.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\有道\有道词典\启动有道词典.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\有道\有道词典\有道单词本.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\盛大网络\登录卫士\卸载登录卫士.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\盛大网络\登录卫士\登录卫士.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\腾讯游戏\腾讯游戏平台\腾讯游戏平台.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\腾讯游戏\腾讯游戏平台\腾讯游戏平台卸载.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ\卸载腾讯QQ.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ\腾讯QQ.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ旋风\QQ旋风.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\腾讯软件\QQ旋风\卸载QQ旋风.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\迅雷软件\迅雷7\卸载迅雷7.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\迅雷软件\迅雷7\启动迅雷7.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\迅雷软件\迅雷影音\卸载迅雷影音.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\迅雷软件\迅雷影音\启动迅雷影音.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\迅雷软件\迅雷影音\迅雷看看-免费高清电影.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\迅雷软件\迅雷看看-高清影视\卸载迅雷看看-高清影视.lnk
+C:\Users\All Users\Microsoft\Windows\Start Menu\Programs\迅雷软件\迅雷看看-高清影视\启动迅雷看看-高清影视.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group1\1 - Desktop.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group2\1 - Run.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group2\2 - Search.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group2\3 - Windows Explorer.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group2\4 - Control Panel.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group2\5 - Task Manager.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\01 - Command Prompt.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\01a - Windows PowerShell.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\02 - Command Prompt.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\02a - Windows PowerShell.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\03 - Computer Management.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\04 - Disk Management.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\04-1 - Network Connections.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\05 - Device Manager.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\06 - System.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\07 - Event Viewer.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\08 - Power Options.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\09 - Mobility Center.lnk
+C:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\10 - Programs and Features.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Shows Desktop.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\VMware Workstation.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Window Switcher.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\SendTo\Fax Recipient.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Documents.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Pictures.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Magnify.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Narrator.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\On-Screen Keyboard.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Notepad.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Command Prompt.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\File Explorer.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Help.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+C:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Windows.Defender.lnk
+C:\Users\pengfei\AppData\Local\Google\Chrome\User Data\Chrome 应用启动器.lnk
