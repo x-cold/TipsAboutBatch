@@ -1,13 +1,15 @@
 ## 批处理写的一些实用脚本
-_Author：xcold [Blog](http://lxstart.net)_
+_Author：xcold [Blog](http://blog.lxstart.net)_
 
-### 简要说明
+简要说明
+===========================
 
 + 本集合批处理为作者日常生活解决所遇到的问题所制作，如需转载请注明作者信息和本仓库链接https://github.com/x-cold/TipsAboutBatch
 
 + 批处理集合文本采用GBK编码，如出现中文乱码错误，请检查文件编码
 
-### [脚本详细清单](https://github.com/x-cold/TipsAboutBatch/blob/master/sources/)
+[脚本详细清单](https://github.com/x-cold/TipsAboutBatch/blob/master/sources/)
+===========================
 
 1. 简单网页报表
 
