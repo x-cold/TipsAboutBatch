@@ -1,14 +1,15 @@
-ECHO ╢╕сз╧ь╠ув╢л╛║ё
+```
+ECHO Е╓└Д╨▌Е┘ЁИ≈╜Г┼╤Ф─│Ц─┌
 Windows
-ECHO ╢╕сз╧ь╠ув╢л╛║ё
+ECHO Е╓└Д╨▌Е┘ЁИ≈╜Г┼╤Ф─│Ц─┌
 Host
 Primary
 Node
 IP
 WINS
-ECHO ╢╕сз╧ь╠ув╢л╛║ё
+ECHO Е╓└Д╨▌Е┘ЁИ≈╜Г┼╤Ф─│Ц─┌
 Ethernet
-ECHO ╢╕сз╧ь╠ув╢л╛║ё
+ECHO Е╓└Д╨▌Е┘ЁИ≈╜Г┼╤Ф─│Ц─┌
 Connection-specific
 Description
 Physical
@@ -18,13 +19,17 @@ Subnet
 IP
 Default
 DNS
-202.116.160.41
-fec0:0:0:ffff::1%1
-fec0:0:0:ffff::2%1
-fec0:0:0:ffff::3%1
-ECHO ╢╕сз╧ь╠ув╢л╛║ё
+202.116.160.41
+
+fec0:0:0:ffff::1%1
+
+fec0:0:0:ffff::2%1
+
+fec0:0:0:ffff::3%1
+
+ECHO Е╓└Д╨▌Е┘ЁИ≈╜Г┼╤Ф─│Ц─┌
 Tunnel
-ECHO ╢╕сз╧ь╠ув╢л╛║ё
+ECHO Е╓└Д╨▌Е┘ЁИ≈╜Г┼╤Ф─│Ц─┌
 Connection-specific
 Description
 Physical
@@ -32,9 +37,9 @@ Dhcp
 IP
 Default
 NetBIOS
-ECHO ╢╕сз╧ь╠ув╢л╛║ё
+ECHO Е╓└Д╨▌Е┘ЁИ≈╜Г┼╤Ф─│Ц─┌
 Tunnel
-ECHO ╢╕сз╧ь╠ув╢л╛║ё
+ECHO Е╓└Д╨▌Е┘ЁИ≈╜Г┼╤Ф─│Ц─┌
 Connection-specific
 Description
 Physical
@@ -42,6 +47,9 @@ Dhcp
 IP
 Default
 DNS
-fec0:0:0:ffff::2%1
-fec0:0:0:ffff::3%1
+fec0:0:0:ffff::2%1
+
+fec0:0:0:ffff::3%1
+
 NetBIOS
+```
